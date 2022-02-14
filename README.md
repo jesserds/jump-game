@@ -1,4 +1,4 @@
-<img src="./jp.gif" alt="jump-game" height=350 class="center"/>
+<a href="https://jesserds.github.io/jump-game/" target="_blank"><img src="./jp.gif" alt="jump-game" height=350 class="center"/></a>
 
 # Jump Game
 
